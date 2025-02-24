@@ -1,0 +1,156 @@
+chair
+TV
+bed
+clock
+console
+door
+fan
+light
+sofa
+table
+BBQ
+Camera
+Camera Accessory
+Clothes
+Cooker
+Cylinder Vacuum
+Desktop
+Dish Washer
+Diving Equipment
+Document
+Drone
+Drone Remote
+EV Charger
+Earings
+Freezer
+Fridge
+Furniture
+Games Console
+Garden Tool
+Golf Club
+Guitar
+Hifi
+Hob
+Laptop
+Lawn Mower
+LawnMower
+Luggage
+Mobile
+Monitor
+Musical Instrument
+Necklace
+Outdoor Furniture
+Oven
+Power Tool
+Printer
+Range
+Ring
+Skis
+Snow Board
+Sun Glasses
+Tablet
+Tumble Dryer
+Upright Vacuum
+Washing Machine
+Watch
+Whole Room
+desk
+Bed
+Cabinet
+Carpet
+Ceramic floor
+Chair
+Closet
+Cupboard
+Curtains
+Dining Table
+Door
+Frame
+Futec frame
+Futech tiles
+Gypsum Board
+Lamp
+Nightstand
+Shelf
+Sideboard
+Sofa
+TV stand
+Table
+Transparent Closet
+Wall Panel
+Window
+Wooden floor
+Computer
+refrigerator
+tv
+washing_machine
+closet
+ottoman
+shelf
+DoorHandle
+bookclosed
+bookopen
+screen
+window
+Emergency exit indicator light
+Ticket Gate
+ac condenser
+vending machine
+water dispenser
+furniture
+oven
+basket_bin
+bench
+cabinet
+call_bell
+cane_stick
+electric_socket
+fire_extinguisher
+handrail
+human_being
+rack
+shower
+sink
+television
+toilet_seat
+walker
+wardrobe
+water_dispenser
+wheelchair
+Art-and-jewellery
+Atv
+Expensive-purses
+Musical-Equipments
+boat-jetski
+chandelier
+cycle
+fashion-items
+gimble
+gym-eqipments
+jewelry-rings
+painting
+sports
+toys
+vase
+Air-conditioner
+Cameras
+Computer-keyboard
+Computer-monitor
+Computer-mouse
+Copiers
+Dishwashers
+Headphone
+Home-entertainment
+Kitchen-appliance
+Mobile-phone
+Outdoor-cooking
+Perfume
+Personal-care
+Refrigerator
+Remote-control
+Speaker
+Television
+Vacuum-cleaner
+Washing-machine
+Webcam
+

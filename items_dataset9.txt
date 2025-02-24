@@ -1,0 +1,27 @@
+Bed
+Carpet
+Chair
+Clock
+Couch
+Curtains
+Refrigerator
+Sofa
+Table
+Wooden floor
+bed
+chair
+closet
+frame
+lamp
+nightstand
+ottoman
+plant
+refrigerator
+shelf
+sideboard
+sofa
+sofas
+table
+transparent closet
+tv
+washing_machine

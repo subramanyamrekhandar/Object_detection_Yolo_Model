@@ -1,0 +1,10 @@
+Create A Conda Environment and cofigures to activate the Environment ( Anaconda Navigator)
+--> conda create -n yolo_env python=3.8
+--> conda activate yolo_env
+
+
+Install necessary Libraries 
+--> pip install streamlit ultralytics opencv-python-headless
+
+Run App
+--> streamlit run app.py
