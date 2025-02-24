@@ -3,3 +3,4 @@ ultralytics
 opencv-python-headless
 pytube
 opencv-python
+streamlit_option_menu
